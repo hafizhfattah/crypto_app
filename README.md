@@ -1,4 +1,4 @@
-# currencyui
+# currency_ui
 
 A new Flutter project.
 
