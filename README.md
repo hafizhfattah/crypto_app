@@ -1,16 +1,23 @@
-# currency_ui
+### 📦 **Crypto Currency App**
 
-A new Flutter project.
+A Crypto Currency App Simple UI Reference 
+Made With Flutter
 
-## Getting Started
+### 🚀 **Getting Started**
+1. Clone this project || Download Zip from GitHub
+2. Run the project In Web or Emulator
 
-This project is a starting point for a Flutter application.
+### 📷 **Screenshots**
 
-A few resources to get you started if this is your first Flutter project:
+<img
+    src="/assets/image1.png"
+    alt="Main Screen"
+    title="Main Screen"
+    style="display: inline-block; margin: 0 auto; width: 200; height: 400px">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img
+    src="/assets/image2.png"
+    alt="Main Screen"
+    title="Main Screen"
+    style="display: inline-block; margin: 0 auto; width: 200; height: 400px">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
