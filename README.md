@@ -1,7 +1,6 @@
-### 📦 **Crypto Currency App**
+### 📦 **Crypto App**
 
-A Crypto Currency App Simple UI Reference 
-Made With Flutter
+Simple Crypto Store App
 
 ### 🚀 **Getting Started**
 1. Clone this project || Download Zip from GitHub
