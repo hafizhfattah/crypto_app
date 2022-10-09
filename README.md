@@ -1,6 +1,6 @@
 ### 📦 **Crypto App**
 
-Simple Crypto Store App
+Simple Crypto Store App.
 
 ### 🚀 **Getting Started**
 1. Clone this project || Download Zip from GitHub
